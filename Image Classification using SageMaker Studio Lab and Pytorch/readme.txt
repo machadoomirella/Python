@@ -1,1 +1,1 @@
-We will build an image classification ML model using SageMaker Studio Lab running PyTorch. We will use the natural images data set from Kaggle with 6.8K images across eight different classes.
+We will build an image classification ML model using SageMaker Studio Lab running PyTorch. We will use the natural images data set from Kaggle with 6.8K images across eight different classes. This tutorial is from: https://towardsdatascience.com/amazon-sagemaker-studio-lab-for-beginners-b5421b1550d3
