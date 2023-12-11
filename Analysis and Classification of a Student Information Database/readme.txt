@@ -1,0 +1,1 @@
+I used the AWS SageMaker tool. I employed exploratory data analysis, pre-processing and post-processing techniques, and the XGBoost algorithm to classify a database with students information (to predict their academic success or dropout).
